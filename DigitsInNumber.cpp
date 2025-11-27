@@ -19,6 +19,5 @@ int main() {
     }
 
     cout << "Number of digits: " << count;
-
     return 0;
 }
